@@ -1,0 +1,7 @@
+streamlit
+pandas
+pydeck
+requests
+altair
+transformers
+torch
